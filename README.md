@@ -4,10 +4,3 @@ Designed and developed a real-time chat application using NodeJS and Socket.IO. 
 real-time communication between users. Developed features for creating and joining chat rooms, sending and receiving messages.
 Used NodeJS and Socket.IO to handle server-side logic and client-server interactions. Used MongoDB as the database to store user and chat room information.
 Implemented advanced features such as message history, typing indicators, and read receipts. Optimized the application's performance and user experience by implementing various algorithms and techniques.
-
-In the project directory, you can run:
-
-# cd .\nodeserver\
-# npm init
-# npm i socket.io
-# nodemon .\index.js
