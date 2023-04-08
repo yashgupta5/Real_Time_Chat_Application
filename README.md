@@ -7,6 +7,7 @@ Implemented advanced features such as message history, typing indicators, and re
 
 In the project directory, you can run:
 
-# npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+# cd .\nodeserver\
+# npm init
+# npm i socket.io
+# nodemon .\index.js
